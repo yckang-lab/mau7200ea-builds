@@ -1,0 +1,5 @@
+version=02.02.0000-r2
+base_version=02.02.0000
+product=mau7200ea
+build_date=2026-03-16
+artifacts=aml_upgrade_package.img,mau7200ea-fastboot-flashall-02.02.0000.zip,build.log
