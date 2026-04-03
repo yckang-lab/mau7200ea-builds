@@ -1,0 +1,4 @@
+f3e352c8311c40975ebe333630b171c1d535df368144e6ab7be39d5fc1597225  /home/kyc/work/uplus_wifi/out/target/product/mau7200ea/aml_upgrade_package.img
+a72c7b548053f64b64ceb5ab64e257b49a44bc9b2e00ed706336a1e42ff0e691  /home/kyc/work/uplus_wifi/out/target/product/mau7200ea/mau7200ea-ota-02.02.0000.zip
+78402d9cac42287f50aa2b12890eadbd47bcb4a37800e5c2ed25449f15c83f39  /home/kyc/work/uplus_wifi/out/target/product/mau7200ea/mau7200ea-fastboot-flashall-02.02.0000.zip
+bc7e791738fd5ea33711ae9639e322e8456c287dfd648b45c55f1c2c7ec8b85e  /home/kyc/work/mau7200ea-builds/releases/02.02.0000-r16/build.log
