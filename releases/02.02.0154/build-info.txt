@@ -1,0 +1,6 @@
+version=02.02.0154
+product=mau7200ea
+build_date=2026-09-02
+branch=a14_aml_lgup_mau7200ea_dev
+vendor_commit=94575aca
+assets=mau7200ea_userdebug_02.02.0154_usb_secure.img.7z,mau7200ea_userdebug_02.02.0154_update_secure.zip
